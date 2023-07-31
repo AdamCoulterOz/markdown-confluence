@@ -1,5 +1,15 @@
 # Changelog
 
+## [5.5.1](https://github.com/markdown-confluence/markdown-confluence/compare/@markdown-confluence/lib-v5.5.0...@markdown-confluence/lib-v5.5.1) (2023-07-31)
+
+
+### Dependencies
+
+* **deps:** bump @atlaskit/adf-schema from 25.10.1 to 26.2.1 ([6bbf385](https://github.com/markdown-confluence/markdown-confluence/commit/6bbf385b3b9c071d8a86bfce8c33b6adaabb8b75))
+* **deps:** bump @atlaskit/adf-utils from 18.4.2 to 19.0.0 ([3a2fae1](https://github.com/markdown-confluence/markdown-confluence/commit/3a2fae187d06483b3e3c6c4944d429479c702c1b))
+* **deps:** bump @atlaskit/editor-json-transformer from 8.9.4 to 8.10.3 ([76ed649](https://github.com/markdown-confluence/markdown-confluence/commit/76ed649f4421c5a437deeb4198aba46c7a59d86d))
+* **deps:** bump prosemirror-model and @types/prosemirror-model ([37d6299](https://github.com/markdown-confluence/markdown-confluence/commit/37d629962ff38c02f1c955ed25c8ad191dfff734))
+
 ## [5.5.0](https://github.com/markdown-confluence/markdown-confluence/compare/@markdown-confluence/lib-v5.4.0...@markdown-confluence/lib-v5.5.0) (2023-06-29)
 
 
